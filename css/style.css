@@ -1,0 +1,99 @@
+.container{
+	width: 1000px;
+	height:900px;
+	background:yellow;
+	margin: auto; 
+
+}
+.header{
+	width: 1000px;
+	height:100px;
+	background:black;
+
+}
+.logo{
+	width: 25%;
+	height:100px;
+	background:black;
+	float:left;
+}
+.menu{
+	width: 75%;
+	height:100px;
+	background:#E79E0D;
+    float:left;
+}
+.content_part{
+	width: 1000px;
+	height:600px;
+	background:#E79E0D;
+    
+
+}
+.left_column{
+	width: 25%;
+	height:100%;
+	background:#DB2E08;
+    float:left;
+}
+.right_column{
+	width: 75%;
+	height:100%;
+	background:white;
+    float:left;
+}
+.upper_column{
+	width: 100%;
+	height:50%;
+	background:white;
+    float:left;
+}
+.upper_part1{
+	width: 100%;
+	height:50%;
+	background:#07CF2B;
+    float:left;
+}
+.upper_part2{
+	width: 100%;
+	height:50%;
+	background:#0995E5;
+    float:left;
+}
+.lower_column{
+	width: 100%;
+	height:50%;
+	background:white;
+    float:left;
+}
+.lower_left{
+	width: 40%;
+	height:100%;
+	background:#0608AD;
+    float:left;
+
+}
+.lower_right{
+	width: 60%;
+	height:100%;
+	background:#ED08D2;
+    float:left;
+
+}
+.footer{
+	width: 1000px;
+	height:150px;
+	background:black;
+}
+.left_part{
+    width: 50%;
+	height:100%;
+	background:#A19399;
+	float: left;
+}
+.right_part{
+    width: 50%;
+	height:100%;
+	background:#A1045E;
+	float: left;
+}
